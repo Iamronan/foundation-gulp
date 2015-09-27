@@ -1,6 +1,6 @@
 {
   "name": "Foundation 5 & Gulp Starter Project",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "authors": [
     "Ronan Vallelly <ronan@iamronan.com>"
   ],
@@ -13,6 +13,7 @@
     "test",
     "tests"
   ],
+
   "devDependencies": {
     "foundation": "~5.5.2"
   }
