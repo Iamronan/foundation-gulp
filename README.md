@@ -1,4 +1,5 @@
 Gulp Foundation 5 Template
+
 This is a Gulp template to start your own project with Foundation 5
 
 Requirements
@@ -7,16 +8,6 @@ You'll need to have the following items installed before continuing.
 
 Node.js: Use the installer provided on the NodeJS website.
 Gulp: Run [sudo] npm install -g gulp
-
-Gulp plugins include
-
-gulp-sass
-gulp-concat
-gulp-uglify
-gulp-rename
-gulp-minify-css
-gulp-notify
-gulp-livereload
 
 Quickstart
 
