@@ -1,4 +1,4 @@
-Gulp Foundation 5 Template
+# Gulp Foundation 5 Template
 
 This is a Gulp template to start your own project with Foundation 5
 
@@ -14,6 +14,12 @@ Quickstart
 >> npm install (This will install all dependencies required for gulp to work.) 
 
 While you're working on your project, run:
+
+#### Run gulp:
+
+```sh
+$ gulp
+```
 
 >> run gulp to build public directory  & gulp watch to complile changes
 
