@@ -8,10 +8,16 @@ You'll need to have the following items installed before continuing.
 
 Node.js: Use the installer provided on the NodeJS website.
 Gulp: Run [sudo] npm install -g gulp
+Bower
 
-Quickstart
 
->> npm install (This will install all dependencies required for gulp to work.) 
+
+####  Quickstart Installation
+
+```sh
+ npm install & bower install
+ 
+ ```
 
 While you're working on your project, run:
 
