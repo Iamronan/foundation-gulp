@@ -21,6 +21,10 @@ While you're working on your project, run:
 $ gulp
 ```
 
+```sh
+$ gulp watch
+```
+
 >> run gulp to build public directory  & gulp watch to complile sass changes
 
 Remember to add an index.html (http://foundation.zurb.com/) file to your public directory and make sure to use app.min.js & app.min.css in your prodcution ready files 
