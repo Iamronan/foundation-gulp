@@ -1,0 +1,19 @@
+{
+  "name": "Foundation & Gulp Starter Project",
+  "version": "0.1.0",
+  "authors": [
+    "Ronan Vallelly <ronan@iamronan.com>"
+  ],
+  "description": "A basic starter template for Foundation 5 + Gulp",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.5.2"
+  }
+}
